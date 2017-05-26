@@ -16,5 +16,9 @@ node server.js
 ```
 
 get All people information: http://localhost:3000/api/v1/people
+
+
 get certain person's information: http://localhost:3000/api/v1/people/1
+
+
 add a new person: http://localhost:3000/, then submit relative information.
